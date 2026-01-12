@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to LazyBank accounts related product APIsss"
+  message: "Hey, welcome to LazyBank accounts related product API's"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}a1946d19817755700f5602880f270e17dadf9ecf2aeee5df33a89d55c4d36cd302535395ec18178a6a6d263001f3ae56"
